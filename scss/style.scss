@@ -1,3 +1,6 @@
+
+//when setting up the import it is important to make sure that the scss file is empty
+
 //importing some of the google fonts
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Raleway&family=Rubik&display=swap');
 
@@ -10,5 +13,10 @@
 @import'./include/typographic.scss';
 @import'./include/color.scss';
 @import'./include/top-sale.scss';
+@import'./include/special-prices.scss';
+
+
+
+
 
 

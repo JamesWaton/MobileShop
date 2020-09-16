@@ -56,3 +56,37 @@ button, button:focus {
 
 #top-sale .owl-carousel .item .product img:hover {
   transform: scale(1.1); }
+
+#top-sale .owl-carousel .owl-nav button {
+  position: absolute;
+  top: 30%;
+  outline: none; }
+
+#top-sale .owl-carousel .owl-nav button.owl-prev {
+  left: 0; }
+
+#top-sale .owl-carousel .owl-nav button.owl-prev span,
+#top-sale .owl-carousel .owl-nav button.owl-next span {
+  font-size: 35px;
+  color: #003859;
+  padding: 0 1rem; }
+
+#top-sale .owl-carousel .owl-nav button.owl-prev span {
+  margin-left: -4rem; }
+
+#top-sale .owl-carousel .owl-nav button.owl-next {
+  right: 0; }
+
+#top-sale .owl-carousel .owl-nav button.owl-nextv span,
+#top-sale .owl-carousel .owl-nav button.owl-next span {
+  font-size: 35px;
+  color: #003859;
+  padding: 0 1rem; }
+
+#top-sale .owl-carousel .owl-nav button.owl-prev span {
+  margin-right: -4rem; }
+
+/*   Special Price Section Template Spacing */
+#special-price .grid .grid-item {
+  margin-right: 1.2rem;
+  margin-top: 1rem; }
